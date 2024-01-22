@@ -1,5 +1,5 @@
 - 👋 Hi, I´m @TinkaStein (She/Her)
-- :brain: I´m a Tübingen-based (GER) neuroscientist in the making and intersted ineverything brain related, specifically sex differences
+- :brain: I´m a Tübingen-based (GER) neuroscientist in the making and intersted in everything brain related, specifically sex differences
 - 📊 Currently I am learning to create data structures for preprocessing of large data sets
 - ✉️ I can be reached via Mail: katharina.stein94@gmail.com
 - 💪 Thankful for any tips:) 
